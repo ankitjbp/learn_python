@@ -1,0 +1,50 @@
+<html style="background-color:red">
+<head>
+<style type="text/css">
+.form{
+height:150px;
+width:300px;
+background-color:#1a83e1;
+color: #ffffff; 
+padding:2px 20px 2px 20px;
+margin:10px;
+float:left;
+border-radius:6px;
+}
+
+</style>
+</head>
+<body>
+<div id="form" class="form">
+<h1>Enter your details</h1>
+
+Name : <input type="text" id="name"/>
+<br/>
+Mobile : <input type="text" id="mobile_number"/>
+<br/>
+<input type="button" value="Submit" id="button" onclick="submit_details()"/>
+</div>
+
+<div id="form" class="form">
+<h1>Enter your details</h1>
+
+Name : <input type="text" id="name"/>
+<br/>
+Mobile : <input type="text" id="mobile_number"/>
+<br/>
+<input type="button" value="Submit" id="button" onclick="submit_details()"/>
+</div>
+
+
+<script type="text/javascript">
+function submit_details(){
+var name= document.getElementById("name").value;
+var mobile_number= document.getElementById("mobile_number").value;
+alert("your name is "+name+" and your mobile number is ="+mobile_number);
+}
+</script>
+<div>
+Submit Your information
+</div>
+</body>
+</html>

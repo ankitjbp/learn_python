@@ -1,0 +1,32 @@
+Programming-> Set of instructions written in some programming language, 
+to perfom a specific task.
+
+Example -
+a) Calculation of two or more numbers - add/substract/devision/multiplication 
+b) Find a given number is even or odd -
+c) Find whether given input is prime number - 
+
+1) Understanding Problem - Define it clearly
+
+2) Program design - Algorithm writing -> Procedure
+
+3) Write code - 
+
+4) Compile -  Compiler / interpreter
+
+5) Run program -
+
+6) Debugging- if any, fix it by 
+Don't Repeat Yourself run
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+

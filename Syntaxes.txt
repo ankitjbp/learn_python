@@ -1,0 +1,37 @@
+Syntax of HTML Element
+
+<opening_tag>
+Content
+</closing_tag>
+
+CSS=> Cascading Style Sheet
+Defined/Decided by W3C world wide web consortium -> Standard 
+Syntax applied on these things  
+=====
+element => HTML Element 
+id
+class 
+
+[property:value]
+property :- height, width, color, border
+
+
+#id_name{
+property1:value1;
+property2:value2;
+}
+ 
+to define, colors we need to use property "background-color", and we can either provide value of color using their official name or 
+can provide their HEXADECIMAL code 
+
+.class_name{
+property1:value1;
+property2:value2;
+}
+
+
+
+
+
+
+
