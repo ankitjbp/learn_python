@@ -2,8 +2,10 @@ Erorrs - flaw in program is called error/bug
 
 there are mainly three types of error in programming 
 
-1) Syntax error
-2) Runtime error
-3) Logical error 
+1) Syntax error - when we do things which are not as per standard of a programming langauge, typo, syntax of any statement
+2) Runtime error - similar as syntax error, and it get shows at time of execution of a program
+3) Logical error -  when a program is good as per syntax 
+but not producing expected results, due to logical flaw
+made by programmer, its called logical error
 
 
