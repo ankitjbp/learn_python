@@ -1,0 +1,9 @@
+Erorrs - flaw in program is called error/bug
+
+there are mainly three types of error in programming 
+
+1) Syntax error
+2) Runtime error
+3) Logical error 
+
+
